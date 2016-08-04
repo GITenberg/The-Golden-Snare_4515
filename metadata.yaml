@@ -1,0 +1,35 @@
+_repo: The-Golden-Snare_4515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: James Oliver Curwood was one of the highest-paid writers of his time,
+  and many of the action-adventure scribe's books were made into films during the
+  early age of movie-making. The Golden Snare is a gripping tale that pits a rookie
+  member of the Royal Canadian Mounted Police against a shadowy fugitive whose preternatural
+  ability to survive in the wild makes him a formidable opponent.
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Wilderness areas -- Fiction'
+- !lcsh 'Mounted police -- Fiction'
+- !lcsh 'Royal Canadian Mounted Police -- Fiction'
+- !lcsh 'Northwest, Canadian -- Fiction'
+- !lcsh 'Fugitives from justice -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Canada -- Fiction'
+- GITenberg
+title: The Golden Snare
+url: http://www.gutenberg.org/ebooks/4515
