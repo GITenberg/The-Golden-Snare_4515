@@ -1,5 +1,8 @@
 _repo: The-Golden-Snare_4515
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -13,6 +16,8 @@ description: James Oliver Curwood was one of the highest-paid writers of his tim
   early age of movie-making. The Golden Snare is a gripping tale that pits a rookie
   member of the Royal Canadian Mounted Police against a shadowy fugitive whose preternatural
   ability to survive in the wild makes him a formidable opponent.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4515#The-Golden-Snare
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
